@@ -1,0 +1,1 @@
+print("Bonjour, je commence l'informatique avec Linux !")
